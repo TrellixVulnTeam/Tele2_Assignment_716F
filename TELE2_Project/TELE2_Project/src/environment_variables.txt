@@ -1,0 +1,6 @@
+Platform=windows
+Browser=chrome
+URL=https://finance.google.com/finance
+Implicit Wait=10
+Explicit Wait=60
+Database Name=MarketCapitalizationData.db
