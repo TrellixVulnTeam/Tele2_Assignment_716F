@@ -15,11 +15,7 @@ class DriverSetup:
 
     def get_browser(self):
         if self.browser=="firefox":
-            if self.platform=="windows":
-                self.driver=webdriver.Firefox(self.utils_directory_path+"geckodriver.exe")
-            else:
-                self.driver = webdriver.Firefox(self.utils_directory_path + "geckodriver")
-
+            self.driver=webdriver.Firefox()
             return self.driver
         if self.browser == "chrome":
             if self.platform == "windows":

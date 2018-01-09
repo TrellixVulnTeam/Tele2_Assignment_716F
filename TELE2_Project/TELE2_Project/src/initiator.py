@@ -21,6 +21,8 @@ if __name__=="__main__":
     mcap=MarketCapitalization()
     driver_setup=DriverSetup(mcap.platform,mcap.browser,mcap.url,mcap.implicit_wait_time)
     db=Database(mcap.db_name)
+    db.delete_all_data("Gainers")
+    db.delete_all_data("Losers")
     db.create_table("Gainers")
     db.create_table("Losers")
     market_cap_page=MarketCapitalizationPage(driver_setup.get_driver(),db)
@@ -28,8 +30,8 @@ if __name__=="__main__":
     market_cap_page.get_table_data()
     market_cap_page.update_stock_price()
     print("************Gainers Table*****************")
-    db.view_data("Gainers")
+    print(db.view_data("Gainers"))
     print("************Losers Table*****************")
-    db.view_data("Losers")
+    print(db.view_data("Losers"))
 
 
