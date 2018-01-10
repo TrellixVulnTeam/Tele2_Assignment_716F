@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Market_Capitalization_Data>
+<Gainers>
+<name>Kenon Holdings Ltd</name>
+<change>1.51%</change>
+<mkt_Cap>1.51%</mkt_Cap>
+<?xml version="1.0" ?>
+<Market_Capitalization_Data>
+<Gainers>
+<name>Kenon Holdings Ltd</name>
+<change>1.51%</change>
+<mkt_Cap>1.51%</mkt_Cap>
+<stock_price>28.03</stock_price>
+</Gainers>
+<Losers>
+<name>Appian Corp</name>
+<change>-11.72%</change>
+<mkt_Cap>1.93%</mkt_Cap>
+<stock_price>28.03</stock_price>
+</Losers>
+<Gainers>
+<name>Xunlei Ltd</name>
+<change>1.57%</change>
+<mkt_Cap>1.57%</mkt_Cap>
+<stock_price>23.52</stock_price>
+</Gainers>
+<Losers>
+<name>Yangtze River Development Ltd</name>
+<change>-9.15%</change>
+<mkt_Cap>1.11%</mkt_Cap>
+<stock_price>23.52</stock_price>
+</Losers>
+<Gainers>
+<name>Global Blood Therapeutics Inc</name>
+<change>2.17%</change>
+<mkt_Cap>2.17%</mkt_Cap>
+<stock_price>47.15</stock_price>
+</Gainers>
+<Losers>
+<name>AK Steel Holding Corporation</name>
+<change>-8.28%</change>
+<mkt_Cap>1.92%</mkt_Cap>
+<stock_price>47.15</stock_price>
+</Losers>
+<Gainers>
+<name>Nektar Therapeutics</name>
+<change>10.71%</change>
+<mkt_Cap>10.71%</mkt_Cap>
+<stock_price>68.03</stock_price>
+</Gainers>
+<Losers>
+<name>Chase Corporation</name>
+<change>-7.67%</change>
+<mkt_Cap>1.08%</mkt_Cap>
+<stock_price>68.03</stock_price>
+</Losers>
+<Gainers>
+<name>Abaxis Inc</name>
+<change>1.40%</change>
+<mkt_Cap>1.40%</mkt_Cap>
+<stock_price>61.52</stock_price>
+</Gainers>
+<Losers>
+<name>Chico's FAS, Inc.</name>
+<change>-7.46%</change>
+<mkt_Cap>1.08%</mkt_Cap>
+<stock_price>61.52</stock_price>
+</Losers>
+</Market_Capitalization_Data>
